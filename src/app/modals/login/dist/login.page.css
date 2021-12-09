@@ -1,0 +1,40 @@
+ion-content ion-grid ion-segment {
+  margin-bottom: 8px;
+}
+ion-content ion-grid ion-row ion-segment-button ion-label {
+  text-transform: none;
+}
+ion-content ion-item ion-checkbox {
+  --size: 13px;
+  --border-width: 0.3px;
+}
+ion-content ion-item ion-input {
+  --padding-start: 10px;
+}
+ion-content ion-item ion-label {
+  padding-left: 10px;
+}
+ion-content ion-item ion-button {
+  text-transform: none;
+}
+ion-content .social-login {
+  min-height: 50px;
+}
+ion-content .social-login ion-col {
+  position: relative;
+}
+ion-content .social-login ion-col .container {
+  display: contents;
+}
+
+.icons ion-button {
+  text-transform: none;
+}
+.icons ion-label {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.privacy-policy ion-col {
+  line-height: 0.9;
+}

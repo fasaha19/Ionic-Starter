@@ -1,0 +1,11 @@
+{
+  "appId": "com.fasaha.namal",
+  "appName": "namal",
+  "bundledWebRuntime": true,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

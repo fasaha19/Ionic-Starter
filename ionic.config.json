@@ -1,0 +1,7 @@
+{
+  "name": "kundol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

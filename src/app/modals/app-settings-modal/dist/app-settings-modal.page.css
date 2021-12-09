@@ -1,0 +1,16 @@
+ion-toggle {
+  padding-inline-end: 0px;
+}
+
+ion-item {
+  --border-color: var(--ion-color-primary);
+  --min-height: auto;
+}
+
+ion-list {
+  border: 1px solid var(--ion-color-primary);
+  padding: 0;
+  margin-top: 10px;
+  margin-left: var(--app-padding-left-right);
+  margin-right: var(--app-padding-left-right);
+}
